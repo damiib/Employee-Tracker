@@ -19,5 +19,5 @@ employee (first_name, last_name, role_id, manager_id)
 VALUES
 ("Harry", "Jones", 6, NULL),
 ("Meghan", "Smith", 3, 1), 
-("Samantha","Brice", 4, 4), 
-("David", "Smith", 8, NULL);
+("David", "Smith", 8, NULL),
+("Samantha","Brice", 4, 3) ;
