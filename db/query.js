@@ -64,6 +64,15 @@ class DB {
     .promise()
     .query("INSERT INTO department SET ?", department)
   }
+
+  addEmployee(employees){
+    return this.connection
+    .promise()
+    .query ("INSERT into employee SET ?", employees)
+
+  }
+  
+
   
 }
 
