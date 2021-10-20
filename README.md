@@ -34,3 +34,46 @@ der needs to know.
   usage: 'The user needs to know that once they run the tracker in the terminal, they will be prompted with questions they must answer. Their will be a selection for answers on some questions and but for adding or inquiring about an employee, you must type in a name.',
   license: 'none',
   test: 'Go to your terminal and type in npm start.  Answer all of the questions when prompted. Update or Add any new employees. Continue to follow the prompt questions until you are finished',
+# Employee Tracker 
+
+  ## Description
+
+  This is an employee tracker.  You can view all employees, add employeesand edit employees.  You can also see their manager, salary and the department that they work in.
+
+  ## Table Of Contents
+
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+
+  
+
+  * [Contributing](#contributing)
+
+  * [Test](#test)
+
+  * [Questions](#questions)
+
+  ## Installation
+
+  You can go to your terminal, and type in node index.js. Then you will see view all employees, edit, add and so on and so forth.  You can select the option that you want to choose and them follow the steps.
+
+  ## Usage
+
+  The user should know that inquirer and mysql2 is required
+
+  
+
+  ## Contributing
+
+  undefined
+
+  ## Test
+
+  Go to the terminal and type in node index.js.  Select the prompt that you would like to use, then follow the steps.
+
+  ## Questions
+
+  [damiib](https://github.com/damiib)
+
+If you have questions, please contact me at: damlbro013@gmail.com
