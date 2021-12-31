@@ -1,8 +1,8 @@
 # Employee-Tracker
-brown@MacBook-Pro ReadMe-Generator % node index.js
+MacBook-Pro ReadMe-Generator % node index.js
 ? What is the name of your project? Employee-Tracker
-? What is your GitHub user name? DamiiB
-? What is your email? damlbro013@gmail.com
+? What is your GitHub user name? Sheluvsdesign
+? What is your email? a@gmail.com
 ? Describe your project? The project is an employee table.  It give you the name o
 f the employees who are currently working here.  You will see their first and last
  name, the name of their manager, their salary and what department they are in.  Y
@@ -27,8 +27,8 @@ ng to your project? There is not anything the rea
 der needs to know.
 {
   title: 'Employee-Tracker',
-  GitHub: 'DamiiB',
-  Email: 'damlbro013@gmail.com',
+  GitHub: 'Sheluvsdesign,
+  Email: 'a@gmail.com',
   description: 'The project is an employee table.  It give you the name of the employees who are currently working here.  You will see their first and last name, the name of their manager, their salary and what department they are in.  You can update and add new employees as they come and go',
   installation: 'I installed inquirer',
   usage: 'The user needs to know that once they run the tracker in the terminal, they will be prompted with questions they must answer. Their will be a selection for answers on some questions and but for adding or inquiring about an employee, you must type in a name.',
@@ -74,6 +74,6 @@ der needs to know.
 
   ## Questions
 
-  [damiib](https://github.com/damiib)
+  [sheluvsdesign](https://github.com/sheluvsdesign)
 
-If you have questions, please contact me at: damlbro013@gmail.com
+If you have questions, please contact me at: a@gmail.com
